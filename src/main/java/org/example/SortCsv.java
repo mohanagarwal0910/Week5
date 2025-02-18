@@ -18,6 +18,7 @@ public class SortCsv {
                 }
                 employeeData.add(data);
             }
+            
             for (int i = 0; i < employeeData.size(); i++) {
                 for (int j = 0; j < employeeData.size() - 1 - i; j++) {
                     try {
