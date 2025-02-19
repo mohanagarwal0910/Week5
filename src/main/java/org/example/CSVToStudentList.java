@@ -2,6 +2,7 @@ package org.example;
 import java.io.*;
 import java.util.*;
 class Student {
+    
     private String name;
     private String email;
     private String phoneNumber;
