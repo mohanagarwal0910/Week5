@@ -2,7 +2,6 @@ package org.example;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 public class ValidateJson {
     public static void main(String[] args) {
         String validJson = "{ \"name\": \"John Doe\", \"age\": 30 }";
