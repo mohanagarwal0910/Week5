@@ -1,6 +1,7 @@
 package org.example;
 import java.io.*;
 import java.util.regex.*;
+
 public class CSVValidator {
     private static final String EMAIL_REGEX = "^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$";
     private static final String PHONE_REGEX = "^\\d{10}$";
