@@ -2,7 +2,6 @@ package org.example;
 
 import java.io.*;
 import java.util.*;
-
 public class ProcessLargeCSV {
 
     public static void main(String[] args) {
